@@ -47,6 +47,7 @@ public class StringTransformController {
                 System.out.println(stringTransformerService.convertToUpperCase());
                 System.out.println(stringTransformerService.convertToMixedCase());
                 printToCSV(stringTransformerService);
+                break;
             default:
                 System.out.println("no operation performed on the string");
         }
