@@ -1,5 +1,4 @@
 # cli-tool
------------
 
 ## this CLI tool accepts a string and does the following to it:
 - converts the string to uppercase and outputs it to stdout.
@@ -14,17 +13,17 @@
 
 ## you can run the code in  2 ways:
 
-## prequisites
+### prequisites
 - java 8 is installed on your machine
-- docker or maven 3.x is installed on your maching
+- docker or maven 3.x is installed on your machine
 
-## 1.via maven
+### 1. via maven
 - clone this repo to your machine
 - navigate to cli-tool folder 
 - run the command "mvn clean install"
 - now go to a CMD/CLI and run the command "java -jar cli-tool-1.0-SNAPSHOT-jar-with-dependencies.jar" 
 
-## 2.via docker
+### 2. via docker
 - navigate to CMD/CLI 
 - run command "docker pull vaibhavg12/cli-tool"
 - run command "docker run -i -t vaibhavg12/cli-tool"
