@@ -59,7 +59,7 @@ public class StringTransformController {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        System.out.println("Csv Created: " + csvName + ".csv");
+        System.out.println("Csv Created!");
     }
 
 }
