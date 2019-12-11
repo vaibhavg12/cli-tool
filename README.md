@@ -9,8 +9,8 @@
 ### Example: when the input: "hello world", we should see the following in stdout:
     HELLO WORLD
     hElLo wOrLd
-    CSV created!
-...and a CSV file containing the following: h,e,l,l,o, ,w,o,r,l,d
+    CSV created! 
+    ...and a CSV file containing the following: h,e,l,l,o, ,w,o,r,l,d
 
 ## you can run the code in  2 ways:
 
